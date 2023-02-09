@@ -16,14 +16,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" width="60" height="60" />&nbsp;
 </div>
-<hr>
 <br>
 <h2>:hammer_and_wrench: A little experiences:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg" title="knockoutjs" width="60" height="60" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="storybook" width="60" height="60" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" width="60" height="60" />&nbsp;
 </div>
 <!--
 **ogairodion/ogairodion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
