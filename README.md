@@ -1,4 +1,4 @@
-<h1>### :hammer_and_wrench: My skills</h1>
+<h1>:hammer_and_wrench: My skills</h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
