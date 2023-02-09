@@ -33,10 +33,19 @@
 </div>
 <br>
 <h2>:man_student: For now I'm learning: </h2>
+<ul>
+    <li>
+        <p>TypeScript</p>
+    </li>
+    <li>
+        <p>ThreeJS</p>
+    </li>
+    <li>
+        <p>GSAP</p>
+    </li>
+</ul>
 
-1. TypeScript
-2. ThreeJS
-3. GSAP
+<h2>:man_student: My socials: </h2>
 
 ### Also I'm a musician :guitar: :love_you_gesture:
 <!--
