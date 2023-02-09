@@ -1,5 +1,12 @@
-<h1>:hammer_and_wrench: My skills:</h1>
+<h1 align="center">
+    :wave:Hello! My name is Rodion.
+    <br>
+    I'm Frontend Developer
+</h1>
 
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400" />
+
+<h2>:hammer_and_wrench: My skills:</h1>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html5" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="css3" width="60" height="60" />&nbsp;
@@ -25,13 +32,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" width="60" height="60" />&nbsp;
 </div>
 <br>
-<h2>:student: For now I'm learning</h2>
-<ul>
-  <li>TypeScript</li>
-  <li>ThreeJS</li>
-  <li>GSAP</li>
-</ul>
+<h2>:man_student: For now I'm learning: </h2>
 
+1. TypeScript
+2. ThreeJS
+3. GSAP
+
+### Also I'm a musician :guitar: :love_you_gesture:
 <!--
 **ogairodion/ogairodion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
