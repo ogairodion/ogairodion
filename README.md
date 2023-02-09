@@ -1,6 +1,8 @@
 <h1>My skills</h1>
 
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
+</div>
 
 <!--
 **ogairodion/ogairodion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
