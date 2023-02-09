@@ -24,6 +24,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg" title="knockoutjs" width="60" height="60" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="storybook" width="60" height="60" />&nbsp;
 </div>
+<br>
+<h2>:student: For now I'm learning</h2>
+<ul>
+  <li>TypeScript</li>
+  <li>ThreeJS</li>
+  <li>GSAP</li>
+</ul>
+
 <!--
 **ogairodion/ogairodion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
