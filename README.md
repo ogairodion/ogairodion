@@ -45,7 +45,24 @@
     </li>
 </ul>
 
-<h2>:man_student: My socials: </h2>
+<h3>My socials: </h3>
+<div>
+   <a href="https://www.facebook.com/rodneyogai/" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" width="60" /> 
+   </a>&nbsp;
+   <a href="https://www.instagram.com/rodneyogai/" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" width="60" /> 
+   </a>&nbsp;
+   <a href="https://vk.com/rodneyo" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg" width="60" /> 
+   </a>&nbsp;    
+   <a href="https://t.me/ogairodion" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" width="60" /> 
+   </a>&nbsp;
+   <a href="https://www.linkedin.com/in/rodion-ogai-ba6b64252/" target="_blank">
+    <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" width="60" /> 
+   </a>&nbsp;
+</div>
 
 ### Also I'm a musician :guitar: :love_you_gesture:
 <!--
